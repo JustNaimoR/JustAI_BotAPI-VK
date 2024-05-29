@@ -14,8 +14,8 @@ api.secret= {your_token}                        // наше значение, к
 1. Создается отдельная vk-группа
 2. Далее переходим в "**Управление**"->"**Работа с API**"
 3. На интерфейсе сверху требуется прежде всего выбрать "**Создать ключ**" и выбрать все необходимые права
-   <img src="[drawing.jpg](https://github.com/JustNaimoR/JustAI_BotAPI-VK/assets/68927773/d9371686-1ee9-45d8-9940-77067d233d3c)" width="200"/>
-
+   <img src="![drawing.jpg](https://github.com/JustNaimoR/JustAI_BotAPI-VK/assets/68927773/d9371686-1ee9-45d8-9940-77067d233d3c)" width="200"/>
+  ![image](https://github.com/JustNaimoR/JustAI_BotAPI-VK/assets/68927773/d9371686-1ee9-45d8-9940-77067d233d3c)
 5. После подтверждения мы получаем сгенерированный ключ, который будет в api.token.access переменной
 6. Переходим в Callback API вкладку и указываем свой секретный ключ (любой)
 7. Далее нам требуется использование внешних https адресов для локальной машины - я использовал ngrok
