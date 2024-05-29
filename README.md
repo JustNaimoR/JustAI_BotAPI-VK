@@ -2,7 +2,7 @@
 ![image](https://github.com/JustNaimoR/JustAI_BotAPI-VK/assets/68927773/34b3b3dd-781b-4179-ac04-1a40a6c83eb9)
 
 # Файл конфигурации
-- Все необходимые параметры конфигурации задаются в application.properties проекта
+- Все необходимые параметры конфигурации задаются в **application.properties** проекта
 ```
 api.token.access= {your_accessToken}            // ключ доступа генерируется в самом начале
 api.token.confirmation= {yout_confirmation}     // строка подстверждения для проверки сервера-бота, куда будут присылаться запросы
