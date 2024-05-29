@@ -1,9 +1,16 @@
 # Демонстрация работы
 ![image](https://github.com/JustNaimoR/JustAI_BotAPI-VK/assets/68927773/34b3b3dd-781b-4179-ac04-1a40a6c83eb9)
 
+# Файл конфигурации
+
 # Инструкция использования
 > ***Если использовать бота не конкретно к созданной мною группе, а в целом иметь возможность добавить его к любой другой:***
-> 
+
+<spring.application.name=BotAPI_VK
+
+api.token.access=vk1.a.pYyIEmIHofzw9bFVtT2oW8CVR7HkkPxmowkez2-KcLZR0PZkjp5e6uBqpy2-ZXZd1jO_08u9ptbA7DQlw905AWiwK3Io6bcMlx3kwWiR0zyh6ZwZ2og5Rsgo04WAlskk6VzunnjG25uLTRM82mccojJXadOILLdNltaY9_T_yB8AEEP6-BtbL0mibrgrzp71oSzOR8YgfKe682RulBfrGQ
+api.token.confirmation=77b49bd1
+api.secret=5PF0SkVZ>
 1. Создается отдельная vk-группа
 2. Далее переходим в "Управление"->"Работа с API"
 3. На интерфейсе сверху требуется прежде всего выбрать "Создать ключ" и выбрать все необходимые права
